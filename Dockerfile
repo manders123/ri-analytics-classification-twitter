@@ -7,6 +7,7 @@ RUN pip3 install --upgrade pip \
     pandas==0.23.4 \
     numpy==1.15.4 \
     scikit_learn==0.20.1 \
+    cython==0.29.21 \
     thinc==7.4.5 \
     gdown
 
