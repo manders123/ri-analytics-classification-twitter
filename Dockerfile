@@ -8,7 +8,7 @@ RUN pip3 install --upgrade pip \
     spacy==2.3.5 \
     Flask==1.0.2 \ 
     pandas==0.23.4 \
-    numpy==1.15.4 \
+    numpy==1.16.0 \
     scikit_learn==0.20.1 \
     gdown
 
